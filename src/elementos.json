@@ -1,0 +1,317 @@
+{
+    "Ag": {
+        "nombre": "Plata",
+        "phi_eV": 4.50,
+        "color_hex": "#C0C0C0"
+    },
+    "Al": {
+        "nombre": "Aluminio",
+        "phi_eV": 4.16,
+        "color_hex": "#BFBFBF"
+    },
+    "As": {
+        "nombre": "Arsénico",
+        "phi_eV": 4.80,
+        "color_hex": "#808080"
+    },
+    "Au": {
+        "nombre": "Oro",
+        "phi_eV": 5.29,
+        "color_hex": "#D4AF37"
+    },
+    "B": {
+        "nombre": "Boro",
+        "phi_eV": 4.45,
+        "color_hex": "#9FAF9F"
+    },
+    "Ba": {
+        "nombre": "Bario",
+        "phi_eV": 2.61,
+        "color_hex": "#DADADA"
+    },
+    "Be": {
+        "nombre": "Berilio",
+        "phi_eV": 4.98,
+        "color_hex": "#C1E1C1"
+    },
+    "Bi": {
+        "nombre": "Bismuto",
+        "phi_eV": 4.31,
+        "color_hex": "#A0A0FF"
+    },
+    "C": {
+        "nombre": "Carbono",
+        "phi_eV": 5.00,
+        "color_hex": "#222222"
+    },
+    "Ca": {
+        "nombre": "Calcio",
+        "phi_eV": 2.87,
+        "color_hex": "#E0E0E0"
+    },
+    "Cd": {
+        "nombre": "Cadmio",
+        "phi_eV": 4.08,
+        "color_hex": "#C8C8C8"
+    },
+    "Ce": {
+        "nombre": "Cerio",
+        "phi_eV": 2.90,
+        "color_hex": "#D9D6C3"
+    },
+    "Co": {
+        "nombre": "Cobalto",
+        "phi_eV": 5.00,
+        "color_hex": "#6A7BA2"
+    },
+    "Cr": {
+        "nombre": "Cromo",
+        "phi_eV": 4.50,
+        "color_hex": "#B0B0B0"
+    },
+    "Cs": {
+        "nombre": "Cesio",
+        "phi_eV": 1.95,
+        "color_hex": "#E6E1A9"
+    },
+    "Cu": {
+        "nombre": "Cobre",
+        "phi_eV": 4.82,
+        "color_hex": "#B87333"
+    },
+    "Eu": {
+        "nombre": "Europio",
+        "phi_eV": 2.50,
+        "color_hex": "#C0A0C0"
+    },
+    "Fe": {
+        "nombre": "Hierro",
+        "phi_eV": 4.74,
+        "color_hex": "#6E6E6E"
+    },
+    "Ga": {
+        "nombre": "Galio",
+        "phi_eV": 4.32,
+        "color_hex": "#C0C0FF"
+    },
+    "Gd": {
+        "nombre": "Gadolinio",
+        "phi_eV": 2.90,
+        "color_hex": "#C8C8E0"
+    },
+    "Hf": {
+        "nombre": "Hafnio",
+        "phi_eV": 3.90,
+        "color_hex": "#B4B4B4"
+    },
+    "Hg": {
+        "nombre": "Mercurio",
+        "phi_eV": 4.48,
+        "color_hex": "#B8C0CC"
+    },
+    "In": {
+        "nombre": "Indio",
+        "phi_eV": 4.09,
+        "color_hex": "#A9B8C0"
+    },
+    "Ir": {
+        "nombre": "Iridio",
+        "phi_eV": 5.34,
+        "color_hex": "#A0A0A0"
+    },
+    "K": {
+        "nombre": "Potasio",
+        "phi_eV": 2.29,
+        "color_hex": "#E3E3C5"
+    },
+    "La": {
+        "nombre": "Lantano",
+        "phi_eV": 3.50,
+        "color_hex": "#C8C8A8"
+    },
+    "Li": {
+        "nombre": "Litio",
+        "phi_eV": 2.90,
+        "color_hex": "#E0E0E0"
+    },
+    "Lu": {
+        "nombre": "Lutecio",
+        "phi_eV": 3.30,
+        "color_hex": "#C0C0A0"
+    },
+    "Mg": {
+        "nombre": "Magnesio",
+        "phi_eV": 3.66,
+        "color_hex": "#D0D0D0"
+    },
+    "Mn": {
+        "nombre": "Manganeso",
+        "phi_eV": 4.10,
+        "color_hex": "#A5A5A5"
+    },
+    "Mo": {
+        "nombre": "Molibdeno",
+        "phi_eV": 4.66,
+        "color_hex": "#8C8C8C"
+    },
+    "Na": {
+        "nombre": "Sodio",
+        "phi_eV": 2.75,
+        "color_hex": "#E8E8E8"
+    },
+    "Nb": {
+        "nombre": "Niobio",
+        "phi_eV": 4.41,
+        "color_hex": "#A5A5A5"
+    },
+    "Nd": {
+        "nombre": "Neodimio",
+        "phi_eV": 3.20,
+        "color_hex": "#B0A0C0"
+    },
+    "Ni": {
+        "nombre": "Níquel",
+        "phi_eV": 5.20,
+        "color_hex": "#6E7F80"
+    },
+    "Os": {
+        "nombre": "Osmio",
+        "phi_eV": 5.93,
+        "color_hex": "#8B8589"
+    },
+    "Pb": {
+        "nombre": "Plomo",
+        "phi_eV": 4.25,
+        "color_hex": "#8C8C8C"
+    },
+    "Pd": {
+        "nombre": "Paladio",
+        "phi_eV": 5.41,
+        "color_hex": "#A0A0A0"
+    },
+    "Pt": {
+        "nombre": "Platino",
+        "phi_eV": 5.53,
+        "color_hex": "#C8C8C8"
+    },
+    "Rb": {
+        "nombre": "Rubidio",
+        "phi_eV": 2.26,
+        "color_hex": "#E8D8B4"
+    },
+    "Re": {
+        "nombre": "Renio",
+        "phi_eV": 4.72,
+        "color_hex": "#7F7F7F"
+    },
+    "Rh": {
+        "nombre": "Rodio",
+        "phi_eV": 4.98,
+        "color_hex": "#C0C0C0"
+    },
+    "Ru": {
+        "nombre": "Rutenio",
+        "phi_eV": 4.71,
+        "color_hex": "#9F9F9F"
+    },
+    "Sb": {
+        "nombre": "Antimonio",
+        "phi_eV": 4.63,
+        "color_hex": "#9F9FBF"
+    },
+    "Sc": {
+        "nombre": "Escandio",
+        "phi_eV": 3.50,
+        "color_hex": "#BFBFBF"
+    },
+    "Se": {
+        "nombre": "Selenio",
+        "phi_eV": 5.90,
+        "color_hex": "#FFA500"
+    },
+    "Si": {
+        "nombre": "Silicio",
+        "phi_eV": 4.73,
+        "color_hex": "#A0A0A0"
+    },
+    "Sm": {
+        "nombre": "Samario",
+        "phi_eV": 2.70,
+        "color_hex": "#C0A0C0"
+    },
+    "Sn": {
+        "nombre": "Estaño",
+        "phi_eV": 4.42,
+        "color_hex": "#D1D1D1"
+    },
+    "Sr": {
+        "nombre": "Estroncio",
+        "phi_eV": 2.59,
+        "color_hex": "#E6E6E6"
+    },
+    "Ta": {
+        "nombre": "Tantalio",
+        "phi_eV": 4.40,
+        "color_hex": "#A9A9A9"
+    },
+    "Tb": {
+        "nombre": "Terbio",
+        "phi_eV": 3.00,
+        "color_hex": "#B0C0B0"
+    },
+    "Te": {
+        "nombre": "Telurio",
+        "phi_eV": 4.95,
+        "color_hex": "#A8A8A8"
+    },
+    "Th": {
+        "nombre": "Torio",
+        "phi_eV": 3.40,
+        "color_hex": "#C9C0A0"
+    },
+    "Ti": {
+        "nombre": "Titanio",
+        "phi_eV": 4.33,
+        "color_hex": "#8A8A8A"
+    },
+    "Tl": {
+        "nombre": "Talio",
+        "phi_eV": 3.84,
+        "color_hex": "#C0B080"
+    },
+    "U": {
+        "nombre": "Uranio",
+        "phi_eV": 3.77,
+        "color_hex": "#708238"
+    },
+    "V": {
+        "nombre": "Vanadio",
+        "phi_eV": 4.30,
+        "color_hex": "#A0A0A0"
+    },
+    "W": {
+        "nombre": "Wolframio",
+        "phi_eV": 4.44,
+        "color_hex": "#B4B4B4"
+    },
+    "Y": {
+        "nombre": "Itrio",
+        "phi_eV": 3.10,
+        "color_hex": "#C8C8C8"
+    },
+    "Yb": {
+        "nombre": "Iterbio",
+        "phi_eV": 2.60,
+        "color_hex": "#C0C0D0"
+    },
+    "Zn": {
+        "nombre": "Zinc",
+        "phi_eV": 4.27,
+        "color_hex": "#7F7F7F"
+    },
+    "Zr": {
+        "nombre": "Circonio",
+        "phi_eV": 4.05,
+        "color_hex": "#B0B0B0"
+    }
+}
