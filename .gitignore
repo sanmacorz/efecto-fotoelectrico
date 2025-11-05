@@ -209,3 +209,4 @@ __marimo__/
 # Ignore Python virtual environment files
 CACHEDIR.TAG
 Scripts/
+pyvenv.cfg
